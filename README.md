@@ -1,3 +1,6 @@
+[![Header](https://github.com/seanjamescurrie/seanjamescurrie/blob/main/Header-1.jpg "Header")](https://seancurrie.com/)
+
+
 ### Hi there 👋
 
 I'm a student software developer with a background in graphic design.

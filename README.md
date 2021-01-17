@@ -1,4 +1,4 @@
-[![Header](https://github.com/seanjamescurrie/seanjamescurrie/blob/main/Header-3.jpg "Header")](https://www.seancurrie.com/)
+[![Header](https://github.com/seanjamescurrie/seanjamescurrie/blob/main/Header-4.jpg "Header")](https://www.seancurrie.com/)
 
 
 ### Hi there 👋

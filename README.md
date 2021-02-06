@@ -1,15 +1,15 @@
 [![Header](https://github.com/seanjamescurrie/seanjamescurrie/blob/main/Header-5.jpg "Header")](https://www.seancurrie.com/)
 
 
-### Hi there 👋
+### Welcome! 🛸
 
 I'm a student software developer with a background in graphic design.
 
-I'm interested in learning how to use data to communicate ideas, tell stories and make decisions.
+I'm interested in learning how to use code to solve real-world problems, build innovative and interesting products/systems. collect data to communicate ideas, tell stories and make decisions.
 
-Creating interesting data visualisations exposing unique insights to allow for better decision making is something I find interesting.
+Creating interesting data visualisations that expose unique insights that allow for better decision making is something I find interesting.
 
-I hope to be able to make contributions to emerging innovative technology.
+I hope I am able to make contributions to emerging innovative technology and encourage anyone with advice or constructive criticism to share it with me.
 
 <!--
 **seanjamescurrie/seanjamescurrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
